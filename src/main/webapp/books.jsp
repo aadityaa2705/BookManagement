@@ -27,6 +27,7 @@
 		<input type="text" name="bookprice" required="required"/><br><br>
 		<input type="submit" value="SUBMIT"/>
 		<input type="reset" value="RESET"/><br><br>
+		<a href="displaybooks.jsp"><input type="button" value="VIEW"/></a>
 	</form>
 </body>
 </html>
